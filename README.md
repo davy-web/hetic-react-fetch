@@ -13,8 +13,10 @@
 
 ## Commandes utilisé
 - symfony new app
-- npx create-react-app views
-- npm install webpack-cli wbpack-dev-server html-webpack-plugin style-loader css-loader file-loader babel-loader
+- cd views
+- npm install react react-dom
+- npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/preset-react
+- npm install --save-dev webpack-cli webpack-dev-server html-webpack-plugin style-loader css-loader file-loader babel-loader
 
 ## Pour démarrer le site (Terminal)
 ````shell
