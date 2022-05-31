@@ -1,0 +1,6 @@
+{
+    "presets": [
+        "@babel/preset-reset",
+        "@babel/preset-env"
+    ]
+}
