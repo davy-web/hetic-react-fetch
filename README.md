@@ -1,6 +1,6 @@
 # Hetic - Blog OnePage React Fetch
 
-## Projet utilise :
+## Projet utilise
 - PHP 7.4
 - Composer
 - Symfony
@@ -11,17 +11,21 @@
 ## Groupe
 - Davy CHEN
 
-## Commandes utilisé :
+## Commandes utilisé
 - symfony new app
 - npx create-react-app views
+- npm install webpack-cli wbpack-dev-server html-webpack-plugin style-loader css-loader file-loader babel-loader
 
 ## Pour démarrer le site (Terminal)
 ````shell
 
 docker-compose up -d
+
 cd app
 symfony serve -d
+
 cd views
+npm install
 npm start
 
 ````
