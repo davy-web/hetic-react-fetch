@@ -1,5 +1,6 @@
 # Hetic - Blog OnePage React Fetch
-Project utilise :
+
+## Project utilise :
 - React
 - Symfony
 
